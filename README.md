@@ -1,6 +1,8 @@
-# Surviving Chicago: A Data Engineering Project
+<h1 align="center">Surviving Chicago: A Data Engineering Project</h1>
 
-<div align="center">
+<div align="center">    
+This repository is a fork of a team project completed as part of the UChicago MS Applied Data Science program.  
+
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
